@@ -1,0 +1,362 @@
+{
+    "foreground_mean": {
+        "Dice": 0.8995763415164602,
+        "FN": 2.0952380952380953,
+        "FP": 0.6666666666666666,
+        "IoU": 0.8248550812970172,
+        "TN": 43249.71428571428,
+        "TP": 11.523809523809524,
+        "n_pred": 12.19047619047619,
+        "n_ref": 13.619047619047619
+    },
+    "mean": {
+        "1": {
+            "Dice": 0.8995763415164602,
+            "FN": 2.0952380952380953,
+            "FP": 0.6666666666666666,
+            "IoU": 0.8248550812970172,
+            "TN": 43249.71428571428,
+            "TP": 11.523809523809524,
+            "n_pred": 12.19047619047619,
+            "n_ref": 13.619047619047619
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.875,
+                    "FN": 2,
+                    "FP": 0,
+                    "IoU": 0.7777777777777778,
+                    "TN": 43255,
+                    "TP": 7,
+                    "n_pred": 7,
+                    "n_ref": 9
+                }
+            },
+            "prediction_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/result/Dataset001_VesselDetection/nnUNetTrainer_250epochs__nnUNetResEncUNetMPlans__2d/fold_0/validation/VesselDetection_0005.nii.gz",
+            "reference_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/preprocessing/Dataset001_VesselDetection/gt_segmentations/VesselDetection_0005.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.967741935483871,
+                    "FN": 1,
+                    "FP": 0,
+                    "IoU": 0.9375,
+                    "TN": 43248,
+                    "TP": 15,
+                    "n_pred": 15,
+                    "n_ref": 16
+                }
+            },
+            "prediction_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/result/Dataset001_VesselDetection/nnUNetTrainer_250epochs__nnUNetResEncUNetMPlans__2d/fold_0/validation/VesselDetection_0010.nii.gz",
+            "reference_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/preprocessing/Dataset001_VesselDetection/gt_segmentations/VesselDetection_0010.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8571428571428571,
+                    "FN": 2,
+                    "FP": 2,
+                    "IoU": 0.75,
+                    "TN": 43248,
+                    "TP": 12,
+                    "n_pred": 14,
+                    "n_ref": 14
+                }
+            },
+            "prediction_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/result/Dataset001_VesselDetection/nnUNetTrainer_250epochs__nnUNetResEncUNetMPlans__2d/fold_0/validation/VesselDetection_0014.nii.gz",
+            "reference_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/preprocessing/Dataset001_VesselDetection/gt_segmentations/VesselDetection_0014.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9629629629629629,
+                    "FN": 0,
+                    "FP": 1,
+                    "IoU": 0.9285714285714286,
+                    "TN": 43250,
+                    "TP": 13,
+                    "n_pred": 14,
+                    "n_ref": 13
+                }
+            },
+            "prediction_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/result/Dataset001_VesselDetection/nnUNetTrainer_250epochs__nnUNetResEncUNetMPlans__2d/fold_0/validation/VesselDetection_0020.nii.gz",
+            "reference_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/preprocessing/Dataset001_VesselDetection/gt_segmentations/VesselDetection_0020.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6896551724137931,
+                    "FN": 7,
+                    "FP": 2,
+                    "IoU": 0.5263157894736842,
+                    "TN": 43245,
+                    "TP": 10,
+                    "n_pred": 12,
+                    "n_ref": 17
+                }
+            },
+            "prediction_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/result/Dataset001_VesselDetection/nnUNetTrainer_250epochs__nnUNetResEncUNetMPlans__2d/fold_0/validation/VesselDetection_0021.nii.gz",
+            "reference_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/preprocessing/Dataset001_VesselDetection/gt_segmentations/VesselDetection_0021.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8,
+                    "FN": 7,
+                    "FP": 0,
+                    "IoU": 0.6666666666666666,
+                    "TN": 43243,
+                    "TP": 14,
+                    "n_pred": 14,
+                    "n_ref": 21
+                }
+            },
+            "prediction_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/result/Dataset001_VesselDetection/nnUNetTrainer_250epochs__nnUNetResEncUNetMPlans__2d/fold_0/validation/VesselDetection_0026.nii.gz",
+            "reference_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/preprocessing/Dataset001_VesselDetection/gt_segmentations/VesselDetection_0026.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.967741935483871,
+                    "FN": 0,
+                    "FP": 1,
+                    "IoU": 0.9375,
+                    "TN": 43248,
+                    "TP": 15,
+                    "n_pred": 16,
+                    "n_ref": 15
+                }
+            },
+            "prediction_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/result/Dataset001_VesselDetection/nnUNetTrainer_250epochs__nnUNetResEncUNetMPlans__2d/fold_0/validation/VesselDetection_0034.nii.gz",
+            "reference_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/preprocessing/Dataset001_VesselDetection/gt_segmentations/VesselDetection_0034.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9523809523809523,
+                    "FN": 1,
+                    "FP": 0,
+                    "IoU": 0.9090909090909091,
+                    "TN": 43253,
+                    "TP": 10,
+                    "n_pred": 10,
+                    "n_ref": 11
+                }
+            },
+            "prediction_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/result/Dataset001_VesselDetection/nnUNetTrainer_250epochs__nnUNetResEncUNetMPlans__2d/fold_0/validation/VesselDetection_0038.nii.gz",
+            "reference_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/preprocessing/Dataset001_VesselDetection/gt_segmentations/VesselDetection_0038.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9090909090909091,
+                    "FN": 1,
+                    "FP": 1,
+                    "IoU": 0.8333333333333334,
+                    "TN": 43252,
+                    "TP": 10,
+                    "n_pred": 11,
+                    "n_ref": 11
+                }
+            },
+            "prediction_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/result/Dataset001_VesselDetection/nnUNetTrainer_250epochs__nnUNetResEncUNetMPlans__2d/fold_0/validation/VesselDetection_0040.nii.gz",
+            "reference_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/preprocessing/Dataset001_VesselDetection/gt_segmentations/VesselDetection_0040.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9230769230769231,
+                    "FN": 0,
+                    "FP": 1,
+                    "IoU": 0.8571428571428571,
+                    "TN": 43257,
+                    "TP": 6,
+                    "n_pred": 7,
+                    "n_ref": 6
+                }
+            },
+            "prediction_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/result/Dataset001_VesselDetection/nnUNetTrainer_250epochs__nnUNetResEncUNetMPlans__2d/fold_0/validation/VesselDetection_0041.nii.gz",
+            "reference_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/preprocessing/Dataset001_VesselDetection/gt_segmentations/VesselDetection_0041.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.875,
+                    "FN": 2,
+                    "FP": 0,
+                    "IoU": 0.7777777777777778,
+                    "TN": 43255,
+                    "TP": 7,
+                    "n_pred": 7,
+                    "n_ref": 9
+                }
+            },
+            "prediction_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/result/Dataset001_VesselDetection/nnUNetTrainer_250epochs__nnUNetResEncUNetMPlans__2d/fold_0/validation/VesselDetection_0045.nii.gz",
+            "reference_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/preprocessing/Dataset001_VesselDetection/gt_segmentations/VesselDetection_0045.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9333333333333333,
+                    "FN": 1,
+                    "FP": 0,
+                    "IoU": 0.875,
+                    "TN": 43256,
+                    "TP": 7,
+                    "n_pred": 7,
+                    "n_ref": 8
+                }
+            },
+            "prediction_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/result/Dataset001_VesselDetection/nnUNetTrainer_250epochs__nnUNetResEncUNetMPlans__2d/fold_0/validation/VesselDetection_0048.nii.gz",
+            "reference_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/preprocessing/Dataset001_VesselDetection/gt_segmentations/VesselDetection_0048.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 1.0,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": 1.0,
+                    "TN": 43258,
+                    "TP": 6,
+                    "n_pred": 6,
+                    "n_ref": 6
+                }
+            },
+            "prediction_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/result/Dataset001_VesselDetection/nnUNetTrainer_250epochs__nnUNetResEncUNetMPlans__2d/fold_0/validation/VesselDetection_0049.nii.gz",
+            "reference_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/preprocessing/Dataset001_VesselDetection/gt_segmentations/VesselDetection_0049.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8571428571428571,
+                    "FN": 4,
+                    "FP": 1,
+                    "IoU": 0.75,
+                    "TN": 43244,
+                    "TP": 15,
+                    "n_pred": 16,
+                    "n_ref": 19
+                }
+            },
+            "prediction_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/result/Dataset001_VesselDetection/nnUNetTrainer_250epochs__nnUNetResEncUNetMPlans__2d/fold_0/validation/VesselDetection_0055.nii.gz",
+            "reference_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/preprocessing/Dataset001_VesselDetection/gt_segmentations/VesselDetection_0055.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8571428571428571,
+                    "FN": 4,
+                    "FP": 0,
+                    "IoU": 0.75,
+                    "TN": 43248,
+                    "TP": 12,
+                    "n_pred": 12,
+                    "n_ref": 16
+                }
+            },
+            "prediction_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/result/Dataset001_VesselDetection/nnUNetTrainer_250epochs__nnUNetResEncUNetMPlans__2d/fold_0/validation/VesselDetection_0059.nii.gz",
+            "reference_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/preprocessing/Dataset001_VesselDetection/gt_segmentations/VesselDetection_0059.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.85,
+                    "FN": 5,
+                    "FP": 1,
+                    "IoU": 0.7391304347826086,
+                    "TN": 43241,
+                    "TP": 17,
+                    "n_pred": 18,
+                    "n_ref": 22
+                }
+            },
+            "prediction_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/result/Dataset001_VesselDetection/nnUNetTrainer_250epochs__nnUNetResEncUNetMPlans__2d/fold_0/validation/VesselDetection_0063.nii.gz",
+            "reference_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/preprocessing/Dataset001_VesselDetection/gt_segmentations/VesselDetection_0063.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9523809523809523,
+                    "FN": 0,
+                    "FP": 1,
+                    "IoU": 0.9090909090909091,
+                    "TN": 43253,
+                    "TP": 10,
+                    "n_pred": 11,
+                    "n_ref": 10
+                }
+            },
+            "prediction_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/result/Dataset001_VesselDetection/nnUNetTrainer_250epochs__nnUNetResEncUNetMPlans__2d/fold_0/validation/VesselDetection_0073.nii.gz",
+            "reference_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/preprocessing/Dataset001_VesselDetection/gt_segmentations/VesselDetection_0073.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8571428571428571,
+                    "FN": 4,
+                    "FP": 0,
+                    "IoU": 0.75,
+                    "TN": 43248,
+                    "TP": 12,
+                    "n_pred": 12,
+                    "n_ref": 16
+                }
+            },
+            "prediction_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/result/Dataset001_VesselDetection/nnUNetTrainer_250epochs__nnUNetResEncUNetMPlans__2d/fold_0/validation/VesselDetection_0077.nii.gz",
+            "reference_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/preprocessing/Dataset001_VesselDetection/gt_segmentations/VesselDetection_0077.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8666666666666667,
+                    "FN": 2,
+                    "FP": 2,
+                    "IoU": 0.7647058823529411,
+                    "TN": 43247,
+                    "TP": 13,
+                    "n_pred": 15,
+                    "n_ref": 15
+                }
+            },
+            "prediction_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/result/Dataset001_VesselDetection/nnUNetTrainer_250epochs__nnUNetResEncUNetMPlans__2d/fold_0/validation/VesselDetection_0079.nii.gz",
+            "reference_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/preprocessing/Dataset001_VesselDetection/gt_segmentations/VesselDetection_0079.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9375,
+                    "FN": 1,
+                    "FP": 1,
+                    "IoU": 0.8823529411764706,
+                    "TN": 43247,
+                    "TP": 15,
+                    "n_pred": 16,
+                    "n_ref": 16
+                }
+            },
+            "prediction_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/result/Dataset001_VesselDetection/nnUNetTrainer_250epochs__nnUNetResEncUNetMPlans__2d/fold_0/validation/VesselDetection_0088.nii.gz",
+            "reference_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/preprocessing/Dataset001_VesselDetection/gt_segmentations/VesselDetection_0088.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 1.0,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": 1.0,
+                    "TN": 43248,
+                    "TP": 16,
+                    "n_pred": 16,
+                    "n_ref": 16
+                }
+            },
+            "prediction_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/result/Dataset001_VesselDetection/nnUNetTrainer_250epochs__nnUNetResEncUNetMPlans__2d/fold_0/validation/VesselDetection_0090.nii.gz",
+            "reference_file": "/home/woody/mfdp/mfdp112h/nnunet_bhautik/preprocessing/Dataset001_VesselDetection/gt_segmentations/VesselDetection_0090.nii.gz"
+        }
+    ]
+}
